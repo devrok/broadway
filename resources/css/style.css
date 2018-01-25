@@ -13,8 +13,9 @@ h1 {
   font-weight: bold;
 }
 
-header a {
+a {
   font-size: 18px;
+  color: White;
 }
 
 h2 {
@@ -31,9 +32,7 @@ section p{
   font-size: 14px;
 }
 
-h4 {
-  font-size: 23px;
-  font-weight: bold;
+.newYork {
   color: White;
   background-image: url("../images/the-flatiron-building.png");
 }
